@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Envato\\AdminLTE3\\vendor\\almasaeed2010\\adminlte"
+		},
+		{
+			"path": "..\\wordpress"
+		}
+	],
+	"settings": {}
+}
